@@ -10,7 +10,7 @@ Welcome to the **Kunai Fonts v0.1** collection, a typographic homage to the anci
 
 ### Font Preview
 
-*Imagine a captivating image here showcasing the Kunai font in a stylish design or displaying its full character set.*
+![Kunai-Font](assets/Kunai-Font.png)
 
 
 
@@ -73,10 +73,11 @@ To ensure maximum compatibility, this collection includes the following formats:
 body {
   font-family: 'Kunai-Regular', sans-serif;
 }
+
 License
 
 This project is licensed under the GNU General Public License v3.0. You are free to share and adapt this font under the terms of this license.
 
-For full details, please review the LICENSE file included in this repository.
+For full details, please review the [LICENSE](LICENSE) file included in this repository.
 
 We hope you enjoy bringing a touch of ancient history to your modern creations with the Kunai typeface!
